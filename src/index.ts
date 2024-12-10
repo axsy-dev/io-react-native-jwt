@@ -20,3 +20,6 @@ export {
 } from './utils/base64';
 export { sha256ToBase64 } from './hash';
 export { type CryptoContext } from './utils/crypto';
+
+export type { JWTDecodeResult, JWTPayload, JWSHeaderParameters } from './types';
+export type { SupportedAlgorithm } from './algorithms';
