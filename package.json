@@ -1,6 +1,6 @@
 {
   "name": "@axsy-dev/io-react-native-jwt",
-  "version": "1.4.1",
+  "version": "2.0.0",
   "description": "Native support for JWT",
   "source": "src/index.ts",
   "main": "lib/commonjs/index.js",
